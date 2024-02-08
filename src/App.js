@@ -1,10 +1,16 @@
-import logo from './logo.svg';
+
 import './App.css';
-import HomePage from './Page/HomePage';
+import AluminiPage from './Page/AluminiPage';
+
+
+
+
 
 function App() {
   return (
-    <HomePage/>
+    
+<AluminiPage/>
+
   );
 }
 
